@@ -1,0 +1,15 @@
+{
+  "vault_path": "/Users/YOUR_USERNAME/path/to/your/obsidian/vault",
+  "version": "1.0",
+  "created": "YYYY-MM-DD",
+  "structure": {
+    "inbox": "00-inbox",
+    "projects": "10-projects",
+    "knowledge": "20-knowledge",
+    "resources": "30-resources",
+    "system": "40-system"
+  },
+  "agents_path": "40-system/agents",
+  "commands_path": "40-system/commands",
+  "templates_path": "vault-templates"
+}
